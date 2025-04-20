@@ -1,6 +1,6 @@
 # heart-disease-app
  
-# ❤️ Heart Disease Prediction App
+# Heart Disease Prediction App
 
 A Machine Learning web app built with **Streamlit** to predict the risk of heart disease based on medical input features. This app uses a **Random Forest Classifier** trained on the UCI Heart Disease dataset.
 
@@ -28,11 +28,11 @@ A Machine Learning web app built with **Streamlit** to predict the risk of heart
 
 ## 📁 Project Structure
 heart-disease-app/
-├── app.py                     # Streamlit app
-├── heart_disease_model.pkl    # Trained ML model
-├── scaler.pkl                 # Fitted scaler
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project overview
+- app.py                     # Streamlit app
+- heart_disease_model.pkl    # Trained ML model
+- scaler.pkl                 # Fitted scaler
+- requirements.txt           # Python dependencies
+- README.md                  # Project overview
 
 ---
 
